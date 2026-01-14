@@ -116,6 +116,7 @@
 │   ├── tags.csv
 │   └── to_read.csv
 ├── notebooks								# Каталог с jupyter-ноутбуками модулей
+│   ├── evaluate.ipynb						# Jupyter-ноутбук со сравнительным анализом метрик
 │   ├── hybrid_system.ipynb
 │   ├── individual_models.ipynb
 │   ├── util_load_best_params_svd.ipynb
